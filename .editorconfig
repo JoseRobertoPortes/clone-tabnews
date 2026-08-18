@@ -1,4 +1,4 @@
 root = True
-[*]
+[ * ]
 indent_style = space
 intent_size = 2
